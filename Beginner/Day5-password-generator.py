@@ -33,7 +33,7 @@ print(f"Your easy password is: {password}")
 # Hard Level - Order of characters randomised:
 # e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 ''' 
-How I implement this question: 
+How I tackle this issue: 
 random get one character from the password generated above and then remove it.
 '''
 # get a copy
