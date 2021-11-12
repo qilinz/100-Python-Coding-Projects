@@ -23,7 +23,7 @@ def days_in_month(year, month):
     The above codes can be written as:
     if is_leap(year) and month == 2:
         return month_days[month-1] + 1
-    *** Remember to use "and" instead of nested if ***touch
+    *** Remember to use "and" instead of nested if ***
     '''
     return month_days[month-1]
 
