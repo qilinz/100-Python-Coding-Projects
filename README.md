@@ -2,6 +2,8 @@
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 
 ### Beginner level
+- Day 10-2: [Calculator](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day10/Day10-calculator.py). Calculator with four operations ("+", "-", "x", "/"). Users can continue the calculation based on the obtained result, or start a new calculation. (Functions with outputs)
+- Day 10-1: [Days in month](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day10/Day10-days-in-month.py). Tell users how many days in the chosen month in the chosen year. (Functions with outputs)
 - Day 9: [Blind Auction](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day9-blind-auction/Day9-blind-auction.py). Users can type their names and bids. The one whose bid is the highest will win. The flow chart can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day9-blind-auction/blind-auction-flow-chart.png). (Dictionary, loop in dictionary)
 - Day 8-2: [Caesar Cipher](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day8-caesar-cipher.py). Users can encode or decode Caesar Cipher messages. (Function with parameters)
 - Day 8-1: [Prime Checker](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day8-prime-checker.py). Users can check whether a number is a prime number. (Function with one parameter)
