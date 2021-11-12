@@ -19,12 +19,12 @@ def days_in_month(year, month):
     if month == 2:
         if is_leap(year):
             return month_days[month-1] + 1
-    """
+    '''
     The above codes can be written as:
     if is_leap(year) and month == 2:
         return month_days[month-1] + 1
-    *** Remember to use "and" instead of nested if ***
-    """
+    *** Remember to use "and" instead of nested if ***touch
+    '''
     return month_days[month-1]
 
 
@@ -33,7 +33,3 @@ input_year = int(input("Enter a year: "))
 input_month = int(input("Enter a month: "))
 days = days_in_month(year=input_year, month=input_month)
 print(f"There are {days} days in {input_year}.{input_month}")
-
-
-
-
