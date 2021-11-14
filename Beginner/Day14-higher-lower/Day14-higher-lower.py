@@ -50,7 +50,7 @@ while not end_of_game:
     comparison_B = random_select()
     # pose the question
     pose_question(comparison_A, comparison_B)
-    # Save the answer
+    # Save the correct answer
     answer = right_answer(comparison_A, comparison_B)
     # Gather user's answer
     guess = input("Who has more followers? Type 'A' or 'B': ")

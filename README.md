@@ -2,7 +2,7 @@
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 
 ### Beginner level
-- Day 14: [Higher or lower](). 
+- Day 14: [Higher or lower](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day14-higher-lower/Day14-higher-lower.py). Users can guess who has more followers on a platform until they give a wrong answer. The flow chart of the game can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day14-higher-lower/higher-lower.png). (Final project for the beginner level)
 - Day 13: No project. Debug exercises.
 - Day 12: [Number Guessing](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day12-number-guessing.py). Users need to find the right answer with limited attempts of the chosen difficulty. (Scope, constants)
 - Day 11: [Blackjack](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day11-blackjack/Day11-blackjack.py). User can play the Blackjack with the computer dealer. It's a simplified version as the cards are infinite, namely the probability of drawing a card does not change. The flow chart can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day11-blackjack/Day11-blackjack.png). (Capstone Project of the first 10 days)  
