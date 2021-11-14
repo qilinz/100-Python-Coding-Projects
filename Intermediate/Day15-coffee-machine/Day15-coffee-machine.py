@@ -1,3 +1,9 @@
+"""
+Commands available:
+(1) "report": report current resources of the coffee machine
+(2) "off": turn off the coffee machine
+(3) "espresso/latte/cappuccino": order a coffee
+"""
 
 # import data
 from coffee_data import MENU, resources
