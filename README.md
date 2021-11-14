@@ -1,6 +1,7 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
-
+### Intermediate level
+- Day 15: 
 ### Beginner level
 - Day 14: [Higher or lower](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day14-higher-lower/Day14-higher-lower.py). Users can guess who has more followers on a platform until they give a wrong answer. The flow chart of the game can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day14-higher-lower/higher-lower.png). (Final project for the beginner level)
 - Day 13: No project. Debug exercises.
