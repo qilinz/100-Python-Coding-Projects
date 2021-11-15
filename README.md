@@ -1,6 +1,7 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Intermediate level
+- Day 16: [Coffee Machine (OOP)](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day16-oop-coffee-machine/main.py). Rewrite Day 15's project using Object-Oriented Programing. Class files are provided by the course. (Object-Oriented Programing)
 - Day 15: [Coffee Machine](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day15-coffee-machine/Day15-coffee-machine.py). Users can buy three kinds of coffees on a coin-operated coffee machine. The profit and the remaining resources of the machine is calculated upon orders. Requirements of the project can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day15-coffee-machine/Coffee-Machine-Program-Requirements.pdf). 
 ### Beginner level
 - Day 14: [Higher or lower](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day14-higher-lower/Day14-higher-lower.py). Users can guess who has more followers on a platform until they give a wrong answer. The flow chart of the game can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day14-higher-lower/higher-lower.png). (Final project for the beginner level)
