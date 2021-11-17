@@ -36,17 +36,20 @@ def draw_dot(times):
         shawn.forward(50)
 
 
-# Set start position
 shawn.penup()
 x_start = -250
 y_start = -250
-shawn.setpos(x_start, y_start)
 
 # Start drawing
 for _ in range(10):
-    draw_dot(10)
-    y_start += 50
+    # Set start position
     shawn.setpos(x_start, y_start)
+    # draw ten times
+    draw_dot(10)
+    # move upwards by 50
+    y_start += 50
+
+# hide my shawn
 shawn.hideturtle()
 
 # Screen settings
