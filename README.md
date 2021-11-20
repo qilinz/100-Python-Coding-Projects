@@ -1,6 +1,7 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Intermediate level
+- Day 20-21: [Snake Game](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day20-snake-game/main.py). The famous snake game using Turtle Graphics. (Turtle Graphics, class inheritance, slicing)
 - Day 19: [Turtle Race](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day19-turtle-race/main.py). A turtle race game where 6 turtles compete with each other. User can bet which turtle is the winner. (Turtle Graphics, state and multiple instances)
 - Day 18: [Hirst Painting](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day18-hirst-painting/main.py). Mimic one of the Damien Hirst's Paintings using Turtle Graphics. Some mini turtle challenges can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day18-hirst-painting/turtle-mini-challenges.py). (Using modules, Turtle Graphics, tuples)
 - Day 17: [Quiz Challenge](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day17-quiz-project/main.py). Users can take a quiz and get report of the result. (OOP practice: creating classes)
