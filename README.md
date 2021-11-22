@@ -1,6 +1,8 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Intermediate level
+- Day 24-2: [Mail Merge](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day24-mail-merge-project/main.py). Generate multiple letters using a letter example and a list of names. (Working with local files and directories)
+- Day 24-1: [Better Snake Game](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day24-better-snake-game/main.py). Players can help multiple times. Highest score is saved locally. (Working with local files)
 - Day 23: [Turtle Crossing Game](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day23-turtle-crossing/main.py). Players help the turtle go cross a street full of cars. The cars speed up when level is up. (Turtle Graphics, Capstone Project)
 - Day 22: [Pong Game](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day22-pong-game/main.py). The famous Pong Game using Turtle Graphics. The ball is sent to random direction. (Turtle Graphics, class inheritance)
 - Day 20-21: [Snake Game](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day20-21-snake-game/main.py). The famous snake game using Turtle Graphics. (Turtle Graphics, class inheritance, slicing)
