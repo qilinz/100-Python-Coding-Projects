@@ -93,11 +93,11 @@ timer_text = canvas.create_text(100, 130, text="00:00", fill="white", font=(FONT
 canvas.grid(column=2, row=2)
 
 # start button
-start_button = Button(text="Start", font=(FONT_NAME, 16), highlightthickness=0, command=start_timer)
+start_button = Button(text="Start", font=(FONT_NAME, 16), bg=YELLOW, highlightthickness=0, command=start_timer)
 start_button.grid(column=1, row=3)
 
 # reset button
-reset_button = Button(text="Reset", font=(FONT_NAME, 16), highlightthickness=0, command=reset_timer)
+reset_button = Button(text="Reset", font=(FONT_NAME, 16), bg=YELLOW, highlightthickness=0, command=reset_timer)
 reset_button.grid(column=3, row=3)
 
 # check mark
