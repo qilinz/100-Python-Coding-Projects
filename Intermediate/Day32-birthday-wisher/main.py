@@ -4,8 +4,8 @@ import datetime as dt
 from random import randint
 
 PLACEHOLDER = "[NAME]"
-my_email = "karinz9526@gmail.com"
-password = "zql*123456"
+my_email = "YOUR_EMAIL"
+password = "YOUR_PASSWORD"
 
 # 1. Read the birthdays.csv
 birthday_list = pd.read_csv("birthdays.csv")
