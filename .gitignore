@@ -1,8 +1,6 @@
 
 .DS_Store
 *.pyc
-*.pyc
-*.pyc
 Intermediate/Day23-turtle-crossing/__pycache__/car_manager.cpython-39.pyc
-Intermediate/Day35-rain-alert/twilio-owm.env
+Intermediate/Day35-rain-alert/info.env
 *.env
