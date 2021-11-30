@@ -4,4 +4,5 @@
 *.pyc
 *.pyc
 Intermediate/Day23-turtle-crossing/__pycache__/car_manager.cpython-39.pyc
+Intermediate/Day35-rain-alert/twilio-owm.env
 *.env
