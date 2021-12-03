@@ -1,0 +1,36 @@
+{
+    "exercises": [
+        {
+            "tag_id": 317,
+            "user_input": "ran",
+            "duration_min": 30,
+            "met": 9.8,
+            "nf_calories": 318.5,
+            "photo": {
+                "highres": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/317_highres.jpg",
+                "thumb": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/317_thumb.jpg",
+                "is_user_uploaded": false
+            },
+            "compendium_code": 12050,
+            "name": "running",
+            "description": null,
+            "benefits": null
+        },
+        {
+            "tag_id": 750,
+            "user_input": "dance",
+            "duration_min": 10,
+            "met": 7.8,
+            "nf_calories": 84.5,
+            "photo": {
+                "highres": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/750_highres.jpg",
+                "thumb": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/750_thumb.jpg",
+                "is_user_uploaded": false
+            },
+            "compendium_code": 3031,
+            "name": "dancing",
+            "description": null,
+            "benefits": null
+        }
+    ]
+}
