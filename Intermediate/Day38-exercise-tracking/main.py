@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 import json
 
-# INFOS
+# INFOS to calculate calories
 GENDER = "YOUR GENDER"
 WEIGHT_KG = "YOUR WEIGHT"
 HEIGHT_CM = "YOUR HEIGHT"
