@@ -1,7 +1,7 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Intermediate level
-- Day 38: [Exercise Tracking](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Intermediate/Day38-exercise-tracking/main.py). (Datetime, OpenAI API, Nutritionix API, authorization headers)
+- Day 38: [Exercise Tracking](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Intermediate/Day38-exercise-tracking/main.py). Analyse user's input through NLP and record the exercises in [Google Sheet](https://docs.google.com/spreadsheets/d/1xRyAJv8VrLqqgBQKJBpFh0Cr3R2dGaCklUKpgT1foCc/edit?usp=sharing). (Datetime, Sheety API, Nutritionix API, authorization headers)
 - Day 37: [Habit Tracking](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Intermediate/Day37-habit-tracking/main.py). Users can track reading habit and record the pages they read each day. (Pixela API, HTTP requests - POST, PUT, DELETE)
 - Day 36: [Stock News Monitor](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day36-stock-news-alert/main.py). When user's targeting stock has a big price change, send the user SMS containing the latest news of the company. (News API, Alpha Vantage API, Twilio API)
 - Day 35: [Rain Alert](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day35-rain-alert/main.py). Send an SMS alert to users when it will rain in the following 12 hours. (Twilio API, OpenWeatherMap API, environment variables)
