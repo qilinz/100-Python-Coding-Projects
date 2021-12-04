@@ -32,10 +32,25 @@ for record in plan_data:
         end_date=end_date
     )
     if (flight_data is not None) and (flight_data.price < record["lowestPrice"]):
-        message_text += f"\nOnly £ {flight_data.price} for {flight_data.to_city} trip!" \
-                        f"\n  {flight_data.out_date} to {flight_data.return_date}"
+        if flight_data.via_city == "":
+            message_text += f"\nOnly £ {flight_data.price} for {flight_data.to_city} trip!" \
+                            f" {flight_data.out_date} to {flight_data.return_date}"
+        else:
+            message_text += f"\nOnly £ {flight_data.price} for {flight_data.to_city} trip!" \
+                            f" {flight_data.out_date} to {flight_data.return_date}, via {flight_data.via_city}"
     else:
         print(f"No cheaper flight for {record['city']}.")
 
 if len(message_text) > 0:
-    notification_manager.send_message(message_text)
+    # # send sms
+    # notification_manager.send_sms(message_text)
+
+    # send email to users
+    # encode the message
+    user_data = data_manager.get_user()
+    for user in user_data:
+        user_message = f"Dear {user['firstName']},\n" + message_text
+        notification_manager.send_email(
+            text=user_message,
+            email=user["email"].strip()
+        )

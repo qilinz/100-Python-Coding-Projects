@@ -1,0 +1,224 @@
+{
+    "search_id": "4d93134e-892f-43ea-a9f8-6d4c292d82d1",
+    "time": 1,
+    "currency": "GBP",
+    "fx_rate": 0.855016,
+    "data": [
+        {
+            "id": "22f501af4aab00005e94c7a5_0|01af0f9c4aab0000fd07ca94_0|0f9c01af4ab900000f6dd79b_0|01af22f54aba00001664c61f_0",
+            "flyFrom": "LGW",
+            "flyTo": "SFO",
+            "cityFrom": "London",
+            "cityCodeFrom": "LON",
+            "cityTo": "San Francisco",
+            "cityCodeTo": "SFO",
+            "countryFrom": {
+                "code": "GB",
+                "name": "United Kingdom"
+            },
+            "countryTo": {
+                "code": "US",
+                "name": "United States"
+            },
+            "type_flights": [
+                "deprecated"
+            ],
+            "nightsInDest": 14,
+            "quality": 709.66594,
+            "distance": 8665.35,
+            "duration": {
+                "departure": 60900,
+                "return": 59100,
+                "total": 120000
+            },
+            "price": 358,
+            "conversion": {
+                "GBP": 358,
+                "EUR": 419
+            },
+            "bags_price": {
+                "1": 171.6
+            },
+            "baglimit": {
+                "hand_height": 40,
+                "hand_length": 55,
+                "hand_weight": 10,
+                "hand_width": 20,
+                "hold_dimensions_sum": 158,
+                "hold_height": 52,
+                "hold_length": 78,
+                "hold_weight": 20,
+                "hold_width": 28
+            },
+            "availability": {
+                "seats": 3
+            },
+            "routes": [
+                [
+                    "LGW",
+                    "SFO"
+                ],
+                [
+                    "SFO",
+                    "LGW"
+                ]
+            ],
+            "airlines": [
+                "VY"
+            ],
+            "route": [
+                {
+                    "id": "22f501af4aab00005e94c7a5_0",
+                    "combination_id": "22f501af4aab00005e94c7a5",
+                    "flyFrom": "LGW",
+                    "flyTo": "BCN",
+                    "cityFrom": "London",
+                    "cityCodeFrom": "LON",
+                    "cityTo": "Barcelona",
+                    "cityCodeTo": "BCN",
+                    "airline": "VY",
+                    "flight_no": 7831,
+                    "operating_carrier": "VY",
+                    "operating_flight_no": "7831",
+                    "fare_basis": "DOWVYLB",
+                    "fare_category": "M",
+                    "fare_classes": "D",
+                    "fare_family": "",
+                    "return": 0,
+                    "bags_recheck_required": false,
+                    "guarantee": false,
+                    "vi_connection": false,
+                    "last_seen": "2021-12-03T04:48:10.000Z",
+                    "refresh_timestamp": "2021-12-03T04:48:10.000Z",
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2022-05-03T12:15:00.000Z",
+                    "utc_arrival": "2022-05-03T10:15:00.000Z",
+                    "local_departure": "2022-05-03T09:00:00.000Z",
+                    "utc_departure": "2022-05-03T08:00:00.000Z"
+                },
+                {
+                    "id": "01af0f9c4aab0000fd07ca94_0",
+                    "combination_id": "01af0f9c4aab0000fd07ca94",
+                    "flyFrom": "BCN",
+                    "flyTo": "SFO",
+                    "cityFrom": "Barcelona",
+                    "cityCodeFrom": "BCN",
+                    "cityTo": "San Francisco",
+                    "cityCodeTo": "SFO",
+                    "airline": "VY",
+                    "flight_no": 9791,
+                    "operating_carrier": "IB",
+                    "operating_flight_no": "2621",
+                    "fare_basis": "SIL2L0SN",
+                    "fare_category": "M",
+                    "fare_classes": "S",
+                    "fare_family": "",
+                    "return": 0,
+                    "bags_recheck_required": true,
+                    "guarantee": true,
+                    "vi_connection": true,
+                    "last_seen": "2021-12-04T10:09:15.000Z",
+                    "refresh_timestamp": "2021-12-04T10:09:15.000Z",
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2022-05-03T17:55:00.000Z",
+                    "utc_arrival": "2022-05-04T00:55:00.000Z",
+                    "local_departure": "2022-05-03T14:25:00.000Z",
+                    "utc_departure": "2022-05-03T12:25:00.000Z"
+                },
+                {
+                    "id": "0f9c01af4ab900000f6dd79b_0",
+                    "combination_id": "0f9c01af4ab900000f6dd79b",
+                    "flyFrom": "SFO",
+                    "flyTo": "BCN",
+                    "cityFrom": "San Francisco",
+                    "cityCodeFrom": "SFO",
+                    "cityTo": "Barcelona",
+                    "cityCodeTo": "BCN",
+                    "airline": "VY",
+                    "flight_no": 9792,
+                    "operating_carrier": "IB",
+                    "operating_flight_no": "2622",
+                    "fare_basis": "SIL2L0RN",
+                    "fare_category": "M",
+                    "fare_classes": "S",
+                    "fare_family": "",
+                    "return": 1,
+                    "bags_recheck_required": false,
+                    "guarantee": false,
+                    "vi_connection": false,
+                    "last_seen": "2021-12-03T05:32:57.000Z",
+                    "refresh_timestamp": "2021-12-03T05:32:57.000Z",
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2022-05-18T16:35:00.000Z",
+                    "utc_arrival": "2022-05-18T14:35:00.000Z",
+                    "local_departure": "2022-05-17T19:55:00.000Z",
+                    "utc_departure": "2022-05-18T02:55:00.000Z"
+                },
+                {
+                    "id": "01af22f54aba00001664c61f_0",
+                    "combination_id": "01af22f54aba00001664c61f",
+                    "flyFrom": "BCN",
+                    "flyTo": "LGW",
+                    "cityFrom": "Barcelona",
+                    "cityCodeFrom": "BCN",
+                    "cityTo": "London",
+                    "cityCodeTo": "LON",
+                    "airline": "VY",
+                    "flight_no": 7820,
+                    "operating_carrier": "VY",
+                    "operating_flight_no": "7820",
+                    "fare_basis": "DOWVYLB",
+                    "fare_category": "M",
+                    "fare_classes": "D",
+                    "fare_family": "",
+                    "return": 1,
+                    "bags_recheck_required": true,
+                    "guarantee": true,
+                    "vi_connection": true,
+                    "last_seen": "2021-12-03T22:46:42.000Z",
+                    "refresh_timestamp": "2021-12-03T22:46:42.000Z",
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2022-05-18T20:20:00.000Z",
+                    "utc_arrival": "2022-05-18T19:20:00.000Z",
+                    "local_departure": "2022-05-18T19:00:00.000Z",
+                    "utc_departure": "2022-05-18T17:00:00.000Z"
+                }
+            ],
+            "booking_token": "Ctn8Gz_cCU81SEO745UWofJw4hi6yxjVRousizSYCvZ4H_MOQyMvxc8S-aUrLSrd0PMrcO8RohluqvJ8nqIQu4Lt1O1uNFMcWxVrTo-mRGYwswTWC7L4F3NDIW1r96O6oIt-QwyZ2CHdZEEXen0qf9gF6ykbzf32EPz6YE0HhEYRfNwEtcHM-NTlkv2gPUyg062U2Rx1pv0FhKbRRt3Y3xkO1x2_TGn3oYqOspN_zvGDFBZxl-rsgvv3HyC413--gKZzT9kFWfcGJfWCmCvP5_bdDA1MPqK7k-al7C8GA7uTqEVv2AAbMotn0XfRDZBW4S4uDxk1NOj9OC9qPc9XoXSkuv6WY1WnELFfxlHlDzJBJZ9kCZjQNVzA5AQ4Oc1k6UV5VjlTHu-Rnr39Zxye9cr8Q8rVhPNrLtF6T_RKg8ong0SbrLv80di7M4KNmhaMXu33wfqExzo-oekJlyU4NXlQMEM0EDjRhpKWg5nNe025KsM36_z5dfIUltFwlH9h1FPxuEbbhwLwkf4pSXQqLdw==",
+            "facilitated_booking_available": true,
+            "pnr_count": 4,
+            "has_airport_change": false,
+            "technical_stops": 0,
+            "throw_away_ticketing": false,
+            "hidden_city_ticketing": false,
+            "virtual_interlining": true,
+            "transfers": [],
+            "local_arrival": "2022-05-03T17:55:00.000Z",
+            "utc_arrival": "2022-05-04T00:55:00.000Z",
+            "local_departure": "2022-05-03T09:00:00.000Z",
+            "utc_departure": "2022-05-03T08:00:00.000Z"
+        }
+    ],
+    "search_params": {
+        "flyFrom_type": "airport",
+        "to_type": "airport",
+        "seats": {
+            "passengers": 1,
+            "adults": 1,
+            "children": 0,
+            "infants": 0
+        }
+    },
+    "all_airlines": [],
+    "all_stopover_airports": [],
+    "del": 0,
+    "currency_rate": 1.169569,
+    "connections": [],
+    "refresh": [],
+    "ref_tasks": [],
+    "sort_version": 0
+}
