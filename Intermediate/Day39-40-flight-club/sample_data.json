@@ -1,0 +1,163 @@
+{
+    "search_id": "18fe145a-c6c6-b05b-24ff-fb1e1869fcbc",
+    "time": 1,
+    "currency": "EUR",
+    "fx_rate": 1,
+    "data": [
+        {
+            "id": "22f50a7c4a820000de489dd8_0|25c322f54a8b00000711819b_0",
+            "flyFrom": "LGW",
+            "flyTo": "ORY",
+            "cityFrom": "London",
+            "cityCodeFrom": "LON",
+            "cityTo": "Paris",
+            "cityCodeTo": "PAR",
+            "countryFrom": {
+                "code": "GB",
+                "name": "United Kingdom"
+            },
+            "countryTo": {
+                "code": "FR",
+                "name": "France"
+            },
+            "type_flights": [
+                "deprecated"
+            ],
+            "nightsInDest": 9,
+            "quality": 116.999895,
+            "distance": 326.68,
+            "duration": {
+                "departure": 4200,
+                "return": 3900,
+                "total": 8100
+            },
+            "price": 75,
+            "conversion": {
+                "EUR": 75
+            },
+            "bags_price": {
+                "1": 46.8
+            },
+            "baglimit": {
+                "hand_height": 40,
+                "hand_length": 55,
+                "hand_weight": 10,
+                "hand_width": 20,
+                "hold_dimensions_sum": 158,
+                "hold_height": 52,
+                "hold_length": 78,
+                "hold_weight": 20,
+                "hold_width": 28
+            },
+            "availability": {
+                "seats": 3
+            },
+            "routes": [
+                [
+                    "LGW",
+                    "ORY"
+                ],
+                [
+                    "CDG",
+                    "LGW"
+                ]
+            ],
+            "airlines": [
+                "VY"
+            ],
+            "route": [
+                {
+                    "id": "22f50a7c4a820000de489dd8_0",
+                    "combination_id": "22f50a7c4a820000de489dd8",
+                    "flyFrom": "LGW",
+                    "flyTo": "ORY",
+                    "cityFrom": "London",
+                    "cityCodeFrom": "LON",
+                    "cityTo": "Paris",
+                    "cityCodeTo": "PAR",
+                    "airline": "VY",
+                    "flight_no": 6969,
+                    "operating_carrier": "VY",
+                    "operating_flight_no": "6969",
+                    "fare_basis": "DOWVYLB",
+                    "fare_category": "M",
+                    "fare_classes": "D",
+                    "fare_family": "",
+                    "return": 0,
+                    "bags_recheck_required": false,
+                    "guarantee": false,
+                    "vi_connection": false,
+                    "last_seen": "2021-12-04T09:09:21.000Z",
+                    "refresh_timestamp": "2021-12-04T09:09:21.000Z",
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2022-03-23T10:00:00.000Z",
+                    "utc_arrival": "2022-03-23T09:00:00.000Z",
+                    "local_departure": "2022-03-23T07:50:00.000Z",
+                    "utc_departure": "2022-03-23T07:50:00.000Z"
+                },
+                {
+                    "id": "25c322f54a8b00000711819b_0",
+                    "combination_id": "25c322f54a8b00000711819b",
+                    "flyFrom": "CDG",
+                    "flyTo": "LGW",
+                    "cityFrom": "Paris",
+                    "cityCodeFrom": "PAR",
+                    "cityTo": "London",
+                    "cityCodeTo": "LON",
+                    "airline": "VY",
+                    "flight_no": 8776,
+                    "operating_carrier": "VY",
+                    "operating_flight_no": "8776",
+                    "fare_basis": "DOWVYLB",
+                    "fare_category": "M",
+                    "fare_classes": "D",
+                    "fare_family": "",
+                    "return": 1,
+                    "bags_recheck_required": false,
+                    "guarantee": false,
+                    "vi_connection": false,
+                    "last_seen": "2021-12-03T09:46:42.000Z",
+                    "refresh_timestamp": "2021-12-03T09:46:42.000Z",
+                    "equipment": "320",
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2022-04-01T16:35:00.000Z",
+                    "utc_arrival": "2022-04-01T15:35:00.000Z",
+                    "local_departure": "2022-04-01T16:30:00.000Z",
+                    "utc_departure": "2022-04-01T14:30:00.000Z"
+                }
+            ],
+            "booking_token": "C11e0zx-kQmUaDR066-mW2zkyfrw76qHOntjI8X3mzhV1THh0fjy3MUPHQ-vyzAkWJJ34Uy1fcH2bZPU3t7IKZL8v2h4ADC3JlUyACBbzijLLkgpf-k4LEoDmKPvFo_SjVflB4RcLjD7e-Rndj2JKNkSMhusqq_kphxRhRiRr8hYhgbcwtUzj6-DguPvpeuf9BRMMk8SroHjQABpwpylQ_9c_8Prd9vJ6KoXzXoGbp_NLz_yFUuBK8szeKQ04YwalJUlIjvqm54nopgrrvZDj71z6d9tRv6szeNyL-9ywPqoyppLSBBlViQ43orkDuuqMDjVC64O-TkEdErDmeSz0149MFrJ3LNLEu4TugqU6KSMlGwusBcyxv796-O5PD2cZTfZoqRPZRbuIpvWS1qQasLtDdc_u5uPeAh86LzQMXDI=",
+            "facilitated_booking_available": true,
+            "pnr_count": 2,
+            "has_airport_change": false,
+            "technical_stops": 0,
+            "throw_away_ticketing": false,
+            "hidden_city_ticketing": false,
+            "virtual_interlining": true,
+            "transfers": [],
+            "local_arrival": "2022-03-23T10:00:00.000Z",
+            "utc_arrival": "2022-03-23T09:00:00.000Z",
+            "local_departure": "2022-03-23T07:50:00.000Z",
+            "utc_departure": "2022-03-23T07:50:00.000Z"
+        }
+    ],
+    "search_params": {
+        "flyFrom_type": "airport",
+        "to_type": "airport",
+        "seats": {
+            "passengers": 1,
+            "adults": 1,
+            "children": 0,
+            "infants": 0
+        }
+    },
+    "all_airlines": [],
+    "all_stopover_airports": [],
+    "del": 0,
+    "currency_rate": 1,
+    "connections": [],
+    "refresh": [],
+    "ref_tasks": [],
+    "sort_version": 0
+}
