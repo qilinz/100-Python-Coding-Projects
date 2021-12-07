@@ -26,6 +26,8 @@ def reverse_list(movie_list):
     return movie_list
 
 
+# An easy coding way to reverse is: movies = movie_titles[::-1]
+
 movie_titles = reverse_list(movie_titles)
 # format the list to str
 movie_str = "\n".join(movie_titles)
