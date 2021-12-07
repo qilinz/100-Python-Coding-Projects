@@ -1,6 +1,7 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Intermediate level
+- Day 46: [Musical Time Machine](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day46-musical-timemachine/main.py). Users type a specific date, a playlist of the Top 100 songs on that date will be generated and a link will be provided to listen to the playlist. (Spotify API, spotipy module, BeautifulSoup module)
 - Day 45: [Top 100 Movies](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day45-movie-lists/main.py). Get the list of Top 100 movies through web scraping. (HTML, BeautifulSoup module)
 - Day 44: [Stylish Personal Website](https://qilinz.github.io/). Set up a stylish personal website using intermediate HTML and CSS. (HTML, CSS)
 - Day 41-43: [Basic Personal Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day44-stylish-personal-site/index.html) Set up a basic personal website using basic HTML. (HTML: text, image, link, table, form)
