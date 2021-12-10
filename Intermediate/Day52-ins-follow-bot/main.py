@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import ElementClickInterceptedException
 import os
 import time
 
@@ -46,9 +47,12 @@ class AutoFollowBot:
         count = 0
         # follow the accounts until the limit is met
         for _ in followings:
-            _.click()
-            time.sleep(5)
-            count += 1
+            # ensure the account is not followed
+            if _.text == "Follow":
+                _.click()
+                count += 1
+                time.sleep(5)
+
             if count >= limit:
                 break
 
@@ -56,4 +60,4 @@ class AutoFollowBot:
 bot = AutoFollowBot()
 bot.log_in()
 bot.find_account("insta_dog")
-bot.follow(5)
+bot.follow(2)
