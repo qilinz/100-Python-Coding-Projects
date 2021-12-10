@@ -1,7 +1,8 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Intermediate level
-- Day 48: [Automated Game Playing Bot](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day48-game-playing-bot/main.py). Create a bot for the [Cookie Clicking Game](http://orteil.dashnet.org/experiments/cookie/). (Selenium, Webdriver, web scraping, web interaction)
+- Day 49: [Automated Job Saver](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day49-auto-job-saver/main.py). Auto save jobs on LinkedIn that match filters. (Selenium)
+- Day 48: [Automated Game Playing Bot](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day48-game-playing-bot/main.py). Create a bot for the [Cookie Clicking Game](http://orteil.dashnet.org/experiments/cookie/). Cookie will be clicked automatically and users can adjust their strategies. (Selenium Webdriver, web scraping, web interaction)
 - Day 47: [Amazon Price Tracker](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day47-amazon-price-tracker/main.py). Monitor the price of targeting product. Send user an email when it is lower than user's desired price. (BeautifulSoup module,  web scraping, smtplib module)
 - Day 46: [Musical Time Machine](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day46-musical-timemachine/main.py). Users type a specific date, a playlist of the Top 100 songs on that date will be generated and a link will be provided to listen to the playlist. (Spotify API, spotipy module, BeautifulSoup module)
 - Day 45: [Top 100 Movies](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day45-movie-lists/main.py). Get the list of Top 100 movies through web scraping. (HTML, BeautifulSoup module)
