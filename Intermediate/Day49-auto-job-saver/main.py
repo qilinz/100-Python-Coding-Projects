@@ -48,3 +48,4 @@ for job in job_list:
     if count == 10:
         break
 
+driver.quit()
