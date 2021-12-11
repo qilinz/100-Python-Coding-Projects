@@ -1,8 +1,10 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Intermediate level
+Revision: [Part 1](https://rebel-silene-0fb.notion.site/Revision-Intermediate-level-Day-15-31-503bd689cee54223a1ad3487341664c1).
+- Day 54: [Function Speed Checker](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day54-python-decorator). Report the running speed of functions using decorator functions. (Decorator Functions)
 - Day 53: [Data Entry Job Automation
-](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day53-data-entry-job-automation/main.py). Gather info from websites according to requirements, and turn the info to excel using Google Form. (BeautifulSoup module, Selenium)
+](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day53-data-entry-job-automation/main.py). Gather info from websites according to requirements, and turn the info to excel using Google Form. (BeautifulSoup module, Selenium, Capstone Project)
 - Day 52: [Auto Ins Follow Bot](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day52-ins-follow-bot/main.py). Given an account name, follow the account's followings automatically. User can decide how many to follow. (Selenium)
 - Day 51: [Internet Speed Twitter Complainer](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day51-twitter-complaint-bot/main.py). Check current internet speed. If it's lower than what the internet provider has guaranteed, tweet on Twitter to complain. (Selenium)
 - Day 49: [Automated Job Saver](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day49-auto-job-saver/main.py). Auto save jobs on LinkedIn that match filters. (Selenium)
