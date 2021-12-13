@@ -2,8 +2,8 @@
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Intermediate level
 Revision: [Part 1](https://rebel-silene-0fb.notion.site/Revision-Intermediate-level-Day-15-31-503bd689cee54223a1ad3487341664c1).
-- Day 57: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day57-blog/preview.png). Create a blog website including home page and blog pages. (Flask, Jinja)
-- Day 56: [Personal Name Card](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day56-name-card/preview.png). Create a personal name card using online html templates. (Flask)
+- Day 57: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day57-blog). Create a blog website including home page and blog pages. Preview can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day57-blog/preview.png) (Flask, Jinja)
+- Day 56: [Personal Name Card](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day56-name-card). Create a personal name card using online html templates. Preview can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day56-name-card/preview.png) (Flask)
 - Day 55: [Web-based Higher Lower Game](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day55-higher-lower-game/server.py). Users can guess the right number given a range. (Flask framework, HTML)
 - Day 54: [Function Speed Checker](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day54-python-decorator/main.py). Report the running speed of functions using decorator functions. (Decorator Functions)
 - Day 53: [Data Entry Job Automation
