@@ -1,5 +1,7 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
+### Advanced level
+- Day 59: [Stylish Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day59-upgraded-blog). Update the Day 57 project of blog website. (Flask, Jinja, Bootstrap, Advanced CSS)
 ### Intermediate level
 Revision: [Part 1](https://rebel-silene-0fb.notion.site/Revision-Intermediate-level-Day-15-31-503bd689cee54223a1ad3487341664c1).
 - Day 58: [App Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Intermediate/Day58-bootstrap). Create an introduction website for an application. (Bootstrap, Advanced CSS)
