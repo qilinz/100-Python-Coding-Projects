@@ -1,6 +1,7 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Advanced level
+- Day 62: [Coffee & Wifi](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day62-coffee-wifi). Build a website listing café nearby. Users can also add their favorite café to the database. (Flask, WTForms, Bootstrap, CSV)
 - Day 61: [Secret Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day61-flask-secrets) Build a website using Flask-WFT and Jinja template inheritance. (Flask-WFT, Jinja, Flask-Bootstrap module)
 - Day 59-60: [Stylish Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day59-60-upgraded-blog). Update the Day 57 project of blog website. (Flask, Jinja, Bootstrap, Advanced CSS)
 ### Intermediate level
