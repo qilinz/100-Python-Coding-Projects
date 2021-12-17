@@ -1,6 +1,7 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Advanced level
+- Day 64: [My Top 10 Movies](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day64-top-10-movies). Create a website listing my top 10 movies. Every movie can be edited and deleted and new movie can be added through TMDB API. (Flask, WTForms, SQLite, SQLAlchemy, TMDB API)
 - Day 63: [Virtual Bookshelf](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day63-virtual-bookshelf). Users can save book ratings. (Database, SQLite, SQLAlchemy)
 - Day 62: [Coffee & Wifi](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day62-coffee-wifi). Build a website listing café nearby. Users can also add their favorite café to the database. (Flask, WTForms, Bootstrap, CSV)
 - Day 61: [Secret Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day61-flask-secrets) Build a website using Flask-WFT and Jinja template inheritance. (Flask-WFT, Jinja, Flask-Bootstrap module)
