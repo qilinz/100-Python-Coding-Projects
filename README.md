@@ -1,13 +1,13 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Advanced level
-- Day 67: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day67-blog-api/main.py)
-- Day 66: [Cafe & Wifi API](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day66-cafe-api). Create an API for users to access a database containing various cafe info regarding coffee price, location, wifi availability, etc. (API in Flask) 
-- Day 64: [My Top 10 Movies](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day64-top-10-movies). Create a website listing my top 10 movies. Every movie can be edited and deleted and new movie can be added through TMDB API. (Flask, WTForms, SQLite, SQLAlchemy, TMDB API)
-- Day 63: [Virtual Bookshelf](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day63-virtual-bookshelf). Users can save book ratings. (Database, SQLite, SQLAlchemy)
-- Day 62: [Coffee & Wifi](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day62-coffee-wifi). Build a website listing café nearby. Users can also add their favorite café to the database. (Flask, WTForms, Bootstrap, CSV)
-- Day 61: [Secret Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day61-flask-secrets) Build a website using Flask-WFT and Jinja template inheritance. (Flask-WFT, Jinja, Flask-Bootstrap module)
-- Day 59-60: [Stylish Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day59-60-upgraded-blog). Update the Day 57 project of blog website. (Flask, Jinja, Bootstrap, Advanced CSS)
+- Day 67: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day67-blog-api/main.py). Create database for the blog website. Users can edit past posts or create new posts. (RESTful Routing, Flask)
+- Day 66: [Cafe & Wifi API](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day66-cafe-api/main.py). Create an API for users to access a database containing various cafe info regarding coffee price, location, wifi availability, etc. (API in Flask) 
+- Day 64: [My Top 10 Movies](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day64-top-10-movies/main.py). Create a website listing my top 10 movies. Every movie can be edited and deleted and new movie can be added through TMDB API. (Flask, WTForms, SQLite, SQLAlchemy, TMDB API)
+- Day 63: [Virtual Bookshelf](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day63-virtual-bookshelf/main.py). Users can save book ratings. (Database, SQLite, SQLAlchemy)
+- Day 62: [Coffee & Wifi](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day62-coffee-wifi/main.py). Build a website listing café nearby. Users can also add their favorite café to the database. (Flask, WTForms, Bootstrap, CSV)
+- Day 61: [Secret Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day61-flask-secrets/main.py) Build a website using Flask-WFT and Jinja template inheritance. (Flask-WFT, Jinja, Flask-Bootstrap module)
+- Day 59-60: [Stylish Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day59-60-upgraded-blog/main.py). Update the Day 57 project of blog website. (Flask, Jinja, Bootstrap, Advanced CSS)
 ### Intermediate level
 Revision: [Part 1](https://rebel-silene-0fb.notion.site/Revision-Intermediate-level-Day-15-31-503bd689cee54223a1ad3487341664c1).
 - Day 58: [App Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Intermediate/Day58-bootstrap). Create an introduction website for an application. (Bootstrap, Advanced CSS)
