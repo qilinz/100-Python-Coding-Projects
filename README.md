@@ -1,6 +1,7 @@
 # 100 Python Coding Projects
-Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
+Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://qilinz.notion.site/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Advanced level
+- Day 69: [Blog Website](). Add users to the blog website built previously. 
 - Day 68: [File Download Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day68-authentication/main.py). User with authentication can download file from the website. (Authentication in Flask, werkzeug module)
 - Day 67: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day67-blog-api/main.py). Create database for the blog website. Users can edit past posts or create new posts. (RESTful Routing, Flask)
 - Day 66: [Cafe & Wifi API](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day66-cafe-api/main.py). Create an API for users to access a database containing various cafe info regarding coffee price, location, wifi availability, etc. (API in Flask) 
@@ -10,7 +11,7 @@ Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can b
 - Day 61: [Secret Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day61-flask-secrets/main.py) Build a website using Flask-WFT and Jinja template inheritance. (Flask-WFT, Jinja, Flask-Bootstrap module)
 - Day 59-60: [Stylish Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day59-60-upgraded-blog/main.py). Update the Day 57 project of blog website. (Flask, Jinja, Bootstrap, Advanced CSS)
 ### Intermediate level
-Revision: [Part 1](https://rebel-silene-0fb.notion.site/Revision-Intermediate-level-Day-15-31-503bd689cee54223a1ad3487341664c1).
+Revision: [Part 1](https://qilinz.notion.site/Revision-Intermediate-level-Day-15-31-503bd689cee54223a1ad3487341664c1).
 - Day 58: [App Website](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Intermediate/Day58-bootstrap). Create an introduction website for an application. (Bootstrap, Advanced CSS)
 - Day 57: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day57-blog). Create a blog website including home page and blog pages. Preview can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day57-blog/preview.png) (Flask, Jinja)
 - Day 56: [Personal Name Card](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day56-name-card). Create a personal name card using online html templates. Preview can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day56-name-card/preview.png) (Flask)
@@ -52,7 +53,7 @@ Revision: [Part 1](https://rebel-silene-0fb.notion.site/Revision-Intermediate-le
 - Day 16: [Coffee Machine (OOP)](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day16-oop-coffee-machine/main.py). Rewrite Day 15's project using Object-Oriented Programing. Class files are provided by the course. (Object-Oriented Programing)
 - Day 15: [Coffee Machine](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day15-coffee-machine/Day15-coffee-machine.py). Users can buy three kinds of coffees on a coin-operated coffee machine. The profit and the remaining resources of the machine is calculated upon orders. Requirements of the project can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Intermediate/Day15-coffee-machine/Coffee-Machine-Program-Requirements.pdf).
 ### Beginner level
-Revision notes of the beginner level can be found [here](https://www.notion.so/Revision-Beginner-level-Day-1-14-9dd7d270dc234fc683390251ec7fde46).
+Revision notes of the beginner level can be found [here](https://qilinz.notion.site/Revision-Beginner-level-Day-1-14-9dd7d270dc234fc683390251ec7fde46).
 - Day 14: [Higher or lower](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day14-higher-lower/Day14-higher-lower.py). Users can guess who has more followers on a platform until they give a wrong answer. The flow chart of the game can be found [here](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day14-higher-lower/higher-lower.png). (Final project for the beginner level)
 - Day 13: No project. Debug exercises.
 - Day 12: [Number Guessing](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Beginner/Day12-number-guessing.py). Users need to find the right answer with limited attempts of the chosen difficulty. (Scope, constants)
