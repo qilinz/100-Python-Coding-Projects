@@ -1,7 +1,7 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://qilinz.notion.site/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Advanced level
-- Day 69: [Blog Website](). Add users to the blog website built previously. 
+- Day 69: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day69-add-blog-users/main.py). Add users to the blog website built previously. (Authentication in Flask, decorators in Flask, relational database, Gravatar in Flask)
 - Day 68: [File Download Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day68-authentication/main.py). User with authentication can download file from the website. (Authentication in Flask, werkzeug module)
 - Day 67: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day67-blog-api/main.py). Create database for the blog website. Users can edit past posts or create new posts. (RESTful Routing, Flask)
 - Day 66: [Cafe & Wifi API](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day66-cafe-api/main.py). Create an API for users to access a database containing various cafe info regarding coffee price, location, wifi availability, etc. (API in Flask) 
