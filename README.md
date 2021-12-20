@@ -1,6 +1,7 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://www.notion.so/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
 ### Advanced level
+- Day 68: [File Download Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day68-authentication/main.py). User with authentication can download file from the website. (Authentication in Flask, werkzeug module)
 - Day 67: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day67-blog-api/main.py). Create database for the blog website. Users can edit past posts or create new posts. (RESTful Routing, Flask)
 - Day 66: [Cafe & Wifi API](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day66-cafe-api/main.py). Create an API for users to access a database containing various cafe info regarding coffee price, location, wifi availability, etc. (API in Flask) 
 - Day 64: [My Top 10 Movies](https://github.com/qilinz/100-Python-Coding-Projects/tree/main/Advanced/Day64-top-10-movies/main.py). Create a website listing my top 10 movies. Every movie can be edited and deleted and new movie can be added through TMDB API. (Flask, WTForms, SQLite, SQLAlchemy, TMDB API)
