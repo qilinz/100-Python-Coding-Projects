@@ -1,6 +1,9 @@
 # 100 Python Coding Projects
 Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://qilinz.notion.site/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
+
+The course has been completed as the rest is about data analysis, which I have learned.
 ### Advanced level
+- Day 70: [Hosting Website](https://github.com/qilinz/chestnut-blog). Host the blog website using Heroku. Switch the database to PostgresSQL. Check it [here](https://chestnut-blog.herokuapp.com) (It costs some time loading the inactive website). (Heroku, PostgresSQL)
 - Day 69: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day69-add-blog-users/main.py). Add users to the blog website built previously. (Authentication in Flask, decorators in Flask, relational database, Gravatar in Flask)
 - Day 68: [File Download Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day68-authentication/main.py). User with authentication can download file from the website. (Authentication in Flask, werkzeug module)
 - Day 67: [Blog Website](https://github.com/qilinz/100-Python-Coding-Projects/blob/main/Advanced/Day67-blog-api/main.py). Create database for the blog website. Users can edit past posts or create new posts. (RESTful Routing, Flask)
