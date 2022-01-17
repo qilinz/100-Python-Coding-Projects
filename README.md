@@ -1,5 +1,5 @@
 # 100 Python Coding Projects
-Based on the course 100 Days of Code by Dr. Angela Yu. Notes of the course can be found [here](https://qilinz.notion.site/a73c7d0045944619aa08b1594cefedf4?v=8462b4251f94434784b6067fff6542d4).
+Based on the course 100 Days of Code by Dr. Angela Yu. 
 
 The course has been completed as the rest is about data analysis, which I have learned.
 ### Advanced level
